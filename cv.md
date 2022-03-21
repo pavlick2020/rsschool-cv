@@ -1,17 +1,17 @@
-# Name
+### Name
 
 Pavlik Evgenii
 
-# Contacts
+### Contacts
 
-# About me
+### About me
 
-# Skills
+### Skills
 
-# Code exemples
+### Code exemples
 
-# Work experience
+### Work experience
 
-# Education
+### Education
 
-# English level
+### English level
